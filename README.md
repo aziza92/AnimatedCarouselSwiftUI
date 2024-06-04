@@ -13,9 +13,9 @@ The project aims to provide a highly interactive and customizable carousel and t
 
 ## Features
 
-- **Animated Carousel: The primary feature of this project is the animated carousel. Users can easily navigate through different views with smooth and visually appealing animations.
-- **Customized Animated Tab Bar: This project also includes a customized tab bar with animations. The tab bar changes color dynamically based on the selected tab, providing a unique and intuitive user experience.
-- **Highly Customizable**: Both the carousel and the tab bar are highly customizable. You can easily change the views, animations, colors, and more to fit your app’s theme.
+- ** Animated Carousel: The primary feature of this project is the animated carousel. Users can easily navigate through different views with smooth and visually appealing animations.
+- ** Customized Animated Tab Bar: This project also includes a customized tab bar with animations. The tab bar changes color dynamically based on the selected tab, providing a unique and intuitive user experience.
+- ** Highly Customizable**: Both the carousel and the tab bar are highly customizable. You can easily change the views, animations, colors, and more to fit your app’s theme.
 
 #
 ![](https://github.com/aziza92/AnimatedCarouselSwiftUI/assets/64699474/4a06cb25-02b2-4020-bfdd-c404f6b59de2.gif)
